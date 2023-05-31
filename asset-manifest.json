@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a06ed36e.css",
+    "main.js": "/static/js/main.bdf5f373.js",
+    "static/js/787.4c62b88d.chunk.js": "/static/js/787.4c62b88d.chunk.js",
+    "static/media/munch1.jpg": "/static/media/munch1.90c2d8db269e82146927.jpg",
+    "static/media/bikash1.jpg": "/static/media/bikash1.de927e7ee0a3711d94bf.jpg",
+    "static/media/diego.png": "/static/media/diego.47dee604e81b517bb741.png",
+    "static/media/liberty-leading.jpg": "/static/media/liberty-leading.f631ee192ec24c2d7793.jpg",
+    "static/media/logo.png": "/static/media/logo.3d4335732a73dae90920.png",
+    "static/media/dix2.jpeg": "/static/media/dix2.dd98048317ee77540c9e.jpeg",
+    "static/media/dix3.jpg": "/static/media/dix3.6f1b8c9f097175bf8c04.jpg",
+    "static/media/chitta2.jpg": "/static/media/chitta2.05fd909f53ef03db0c1f.jpg",
+    "static/media/kollwitz1.jpg": "/static/media/kollwitz1.631676f2a6baf1a51f5b.jpg",
+    "static/media/bikash2.jpg": "/static/media/bikash2.b45068620857477c4e80.jpg",
+    "static/media/dix1.jpg": "/static/media/dix1.b1b57a27ccfb5f3ff39b.jpg",
+    "static/media/chitta3.jpg": "/static/media/chitta3.b28c6b4234463c44d36d.jpg",
+    "static/media/Chomsky.otf": "/static/media/Chomsky.7c2ce2ca847ebba92ad0.otf",
+    "static/media/kollwitz2.jpg": "/static/media/kollwitz2.e62178e1baa77cf3742a.jpg",
+    "static/media/grain.png": "/static/media/grain.bfa61f28a081aa1262d7.png",
+    "static/media/chitta1.jpg": "/static/media/chitta1.e95aa175f8278772148d.jpg",
+    "static/media/mf_allend.jpg": "/static/media/mf_allend.f41624507a459e397af3.jpg",
+    "static/media/picabia.jpg": "/static/media/picabia.f9b7582008818a02b17f.jpg",
+    "static/media/picasso-stalin.jpg": "/static/media/picasso-stalin.09c05eb29f7575adcfc9.jpg",
+    "index.html": "/index.html",
+    "main.a06ed36e.css.map": "/static/css/main.a06ed36e.css.map",
+    "main.bdf5f373.js.map": "/static/js/main.bdf5f373.js.map",
+    "787.4c62b88d.chunk.js.map": "/static/js/787.4c62b88d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06ed36e.css",
+    "static/js/main.bdf5f373.js"
+  ]
+}
